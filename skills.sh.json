@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Workflow",
+      "description": "Skills that shape how the agent works before and during implementation.",
+      "skills": ["iron"]
+    }
+  ]
+}
