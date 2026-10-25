@@ -5,7 +5,7 @@
     {
       "title": "Workflow",
       "description": "Skills that shape how the agent works before and during implementation.",
-      "skills": ["iron"]
+      "skills": ["iron", "pace"]
     }
   ]
 }

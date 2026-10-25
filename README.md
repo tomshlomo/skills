@@ -38,6 +38,15 @@ Clarifies requirements before implementation by asking focused questions, one at
 - You want a short Q&A pass instead of jumping straight into code
 - You prefer replying with option numbers rather than long free-text answers
 
+### pace
+
+Breaks the explanation of the current topic into smaller steps, so a question or disagreement near the start is not treated as if the rest was already read. Invoke with `/pace` for that topic only. When the topic is finished, replies go back to normal.
+
+**Use when:**
+
+- You are about to ask an agent to explain something and want room to steer along the way
+- A long single answer would hide a question or disagreement near the start
+
 ## Adding skills
 
 Add a new directory under `skills/<name>/` with a `SKILL.md` file. Optionally register it in `skills.sh.json` for grouping on [skills.sh](https://skills.sh/).
