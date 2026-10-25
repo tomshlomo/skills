@@ -30,7 +30,7 @@ npx skills add tomshlomo/skills -l
 
 ### iron
 
-Clarifies requirements before implementation by asking focused questions, one at a time, with numbered options. Invoke with `/iron` when you want to remove ambiguity before coding.
+Clarifies requirements before implementation by asking focused text-based questions, one at a time, with numbered options in chat (not the built-in questions UI). Invoke with `/iron` when you want to remove ambiguity before coding.
 
 **Use when:**
 
